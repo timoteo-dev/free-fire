@@ -1,0 +1,28 @@
+{
+  "name": "free-fire",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "rea": "rea",
+    "serve:app": "serve -s cloned-app -l 3000",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timoteo-dev/free-fire.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/timoteo-dev/free-fire/issues"
+  },
+  "homepage": "https://github.com/timoteo-dev/free-fire#readme",
+  "dependencies": {
+    "firebase": "^13.1.0",
+    "rea-agents": "^6.7.0",
+    "serve": "^14.2.6"
+  }
+}
