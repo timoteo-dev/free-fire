@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "build": "echo ok",
     "rea": "rea",
     "serve:app": "serve -s cloned-app -l 3000",
     "test": "echo \"Error: no test specified\" && exit 1"
